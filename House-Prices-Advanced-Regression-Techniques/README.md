@@ -11,4 +11,10 @@ I will also be exploring Gradient Boosting Decision Trees namely XGBoost, LightG
 I also hope to explore neural network models and maybe support vector regressors.
 I apologise if you can't find some of the models up yet. I will be constantly updating them whenever I complete them.
 
+Regression Models: Done
+
+Gradient Boosting Decision Trees: XGBoost- Done, LightGBM & CatBoost - in progress
+
+NN - in progress, SVRs - in progress
+
 dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
